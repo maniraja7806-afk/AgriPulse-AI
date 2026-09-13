@@ -1,0 +1,12 @@
+{
+  "name": "AgriPulse AI",
+  "description": "An AI-powered farming decision platform that combines crop health, weather, irrigation, disease risk, and market intelligence in one place.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
